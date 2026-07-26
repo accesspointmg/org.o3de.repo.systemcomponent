@@ -51,7 +51,7 @@
     "overlays": []
   },
   "source_control": {
-    "git": "https://github.com/accesspointmg/o3de-systemcomponent.git",
+    "git": "https://github.com/accesspointmg/org.o3de.repo.systemcomponent.git",
     "branch": "2.0.0"
   }
 }
